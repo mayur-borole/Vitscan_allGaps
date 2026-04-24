@@ -1,0 +1,10 @@
+{
+  "name": "vitscan-workspace-launcher",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix ./VITSCAN-main run dev",
+    "build": "npm --prefix ./VITSCAN-main run build",
+    "test": "npm --prefix ./VITSCAN-main run test"
+  }
+}

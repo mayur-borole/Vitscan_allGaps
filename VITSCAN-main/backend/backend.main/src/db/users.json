@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bb835700-56cc-42ae-b95c-11458b986773",
+    "name": "Mayur Borole",
+    "created_at": "2026-03-31T18:03:03.436343+00:00"
+  },
+  {
+    "id": "1842fc50-d89d-467d-8b35-2083ed8951df",
+    "name": "Mayur Test",
+    "age": 22,
+    "email": "mayur9766@example.com",
+    "password_hash": "$2b$12$m8c11wvn13GhvlwTtWTzq.kjoOBLeiloCN5vmSnBbTjX4p0OlYSVG",
+    "phone": "9876543210",
+    "created_at": "2026-03-31T18:32:23.736520+00:00"
+  },
+  {
+    "id": "61e4eecd-0f15-4c8b-af47-64943ecac80d",
+    "name": "Mayur Borole",
+    "age": 22,
+    "email": "mayurborolemvb2004@gmail.com",
+    "password_hash": "$2b$12$p86U/7aM0vHa9PN9omokHOxtiglCYWzjtx6jbtLY981W3ihC2J81.",
+    "phone": "9322438984",
+    "created_at": "2026-03-31T18:34:58.606932+00:00"
+  },
+  {
+    "id": "ae4c7f70-9a83-4646-86f2-a10b0373eb60",
+    "name": "Pratham",
+    "age": 22,
+    "email": "hubtinytoons@gmail.com",
+    "password_hash": "$2b$12$PKTNBzF52t83esIWR3QSq.xQTGnZS62HzzS/Ck/0Z9eCL464msTUu",
+    "phone": "9876543211",
+    "created_at": "2026-03-31T18:56:53.162409+00:00"
+  },
+  {
+    "id": "f5e77e50-9cac-4000-8571-0b7615ca6992",
+    "name": "Test User",
+    "age": 22,
+    "gender": "male",
+    "email": "test1774985040@example.com",
+    "password_hash": "$2b$12$lshk7uTY9FaGzsme0RM1bez3vBfH6JfIS13pnc/ChbIHn2B4qhIxy",
+    "phone": "9876543210",
+    "created_at": "2026-03-31T19:24:01.145174+00:00"
+  }
+]
